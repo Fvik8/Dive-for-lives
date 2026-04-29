@@ -1,6 +1,6 @@
 import {motion, AnimatePresence} from 'motion/react';
 import {X, CheckCircle2, Waves, Droplet, User} from 'lucide-react';
-import {useState} from 'react';
+import React, {useState} from 'react';
 
 export default function RegistrationModal({ isOpen, onClose }: { isOpen: boolean, onClose: () => void }) {
   const [step, setStep] = useState(1);

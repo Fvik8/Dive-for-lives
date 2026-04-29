@@ -7,21 +7,21 @@ const materials = [
     category: 'RENEWABLE',
     impact: '100% Biodegradable in water',
     icon: Waves,
-    image: 'https://images.unsplash.com/photo-1544551763-47a0159c9636?auto=format&fit=crop&q=80&w=400'
+    image: '/regenerated_image_1777476332523.png'
   },
   {
     title: 'Mycelium Packaging',
     category: 'CIRCULAR',
     impact: 'Composts in 45 days',
     icon: Leaf,
-    image: 'https://images.unsplash.com/photo-1550505393-5c4725695ff6?auto=format&fit=crop&q=80&w=400'
+    image: '/regenerated_image_1777476340036.png'
   },
   {
     title: 'Plant Fiber Nets',
     category: 'INNOVATION',
     impact: 'Zero ghost fishing risk',
     icon: Wind,
-    image: 'https://images.unsplash.com/photo-1498654203945-36420a9a239b?auto=format&fit=crop&q=80&w=400'
+    image: '/regenerated_image_1777476347770.png'
   }
 ];
 
