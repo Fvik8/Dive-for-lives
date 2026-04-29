@@ -1,0 +1,12 @@
+{
+  "name": "Dive for Lives - Save Our Oceans",
+  "description": "A global community of 16,000+ divers dedicated to cleaning ocean plastic, recycling, and educating for a sustainable future.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Environmental Conservation",
+    "Volunteer Management",
+    "Interactive Impact Tracking"
+  ]
+}
